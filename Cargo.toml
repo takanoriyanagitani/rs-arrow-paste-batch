@@ -3,6 +3,13 @@ name = "rs-arrow-paste-batch"
 version = "0.1.0"
 edition = "2024"
 
+description = "Creates a zipped iterator of record batches."
+license = "Apache-2.0"
+repository = "https://github.com/takanoriyanagitani/rs-arrow-paste-batch"
+homepage = "https://github.com/takanoriyanagitani/rs-arrow-paste-batch"
+documentation = "https://docs.rs/rs-arrow-paste-batch"
+keywords = ["zip", "paste", "arrow"]
+
 [lints.rust]
 unsafe_code = "forbid"
 
